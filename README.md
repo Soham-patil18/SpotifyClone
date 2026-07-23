@@ -110,7 +110,7 @@ Here are a few previews of the project:
 - 🌍 [GitHub Profile](https://github.com/Soham-patil18)  
 - 🔗 [Live Project](https://github.com/Soham-patil18/SpotifyClone.git/)
 - 📧 Email: sohampatil49690@gmail.com<br>
-- s
+
 
 ---
 =======
