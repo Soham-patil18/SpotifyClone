@@ -115,5 +115,3 @@ Here are a few previews of the project:
 ---
 =======
 # SpotifyClone
->>>>>>> 9520c46277a6638ee1963c243826dacc8dcedef0
-sss
