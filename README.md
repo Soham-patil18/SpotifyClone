@@ -8,12 +8,6 @@ This project replicates the layout and functionality of Spotify’s web interfac
 
 ---
 
-## 🌐 Live Demo  
-
-👉 **[Visit the Live Site](https://github.com/Soham-patil18/SpotifyClone.git)**  
-
----
-
 ## 🎯 Project Overview 
  
 This Spotify Clone is a front-end UI recreation that demonstrates skills in responsive web design, modern CSS, and interface layout structuring.
@@ -108,7 +102,6 @@ Here are a few previews of the project:
 **Soham patil**  
 
 - 🌍 [GitHub Profile](https://github.com/Soham-patil18)  
-- 🔗 [Live Project](https://github.com/Soham-patil18/SpotifyClone.git/)
 - 📧 Email: sohampatil49690@gmail.com<br>
 
 
