@@ -6,6 +6,8 @@
 A Spotify Web Player Clone built using HTML5, CSS3, and Font Awesome.
 This project replicates the layout and functionality of Spotify’s web interface — including sidebar navigation, library, playlist cards, and an elegant music player.
 
+🌐 Live Demo
+👉  Visit the Live Site(https://soham-patil18.github.io/SpotifyClone/)
 ---
 
 ## 🎯 Project Overview 
@@ -101,7 +103,8 @@ Here are a few previews of the project:
 
 **Soham patil**  
 
-- 🌍 [GitHub Profile](https://github.com/Soham-patil18)  
+- 🌍 [GitHub Profile](https://github.com/Soham-patil18) 
+- 🔗 [Live Project](https://soham-patil18.github.io/SpotifyClone/) 
 - 📧 Email: sohampatil49690@gmail.com<br>
 
 
