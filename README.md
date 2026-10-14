@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<<  HEAD
 # 🎵 Spotify Clone
 
 ![Amazon Clone Banner](https://raw.githubusercontent.com/ronik-bajakke/SpotifyClone/main/banner.png)
